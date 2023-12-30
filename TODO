@@ -1,0 +1,6 @@
+- Setup logos for the socials
+- Increase the width of the display picture
+- Center the title of the web page `Divy Patel`
+- Add description adjacent to the display picture and social handle
+- Add another wrapper below the display picture and description wrapper
+- Fix the .github/workflows/ci.yaml to be able to get rid of permission denied while running scripts/bootstrap
